@@ -1,0 +1,6 @@
+picamera
+tensorflow
+keras
+flask
+grpcio
+python-networkmanager

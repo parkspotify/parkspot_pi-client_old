@@ -1,0 +1,1 @@
+infoFile = "parkspot/info"
