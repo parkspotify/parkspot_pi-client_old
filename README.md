@@ -1,3 +1,6 @@
+# This is the old parkspot client for the raspberry pi
+This client worked well but lacks proper documentation and is fairly complicated to set up. For instructions on how to set up the old client refer to the wiki or the instructions in the documents folder.
+
 # Parkspot Client
 This is the parkspot client that takes images and uses a cnn to determine the available parking spots. This sends data to the proxy server at the end.
 
